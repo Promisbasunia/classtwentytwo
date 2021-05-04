@@ -1,0 +1,84 @@
+.header-section{
+  background-color: #F5F5F5;
+}
+.header-section .logo  a{
+    color: #0d6efd;
+    text-decoration: none;
+    font-size: 28px;
+    line-height: 67px;
+}
+.header-section .manu{}
+.header-section .manu ul{
+    margin-bottom: 0;
+    text-align: right;
+}
+.header-section .manu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.header-section .manu ul li a{
+    display: inline-block;
+    font-size: 16px;
+    padding: 0 20px; 
+    line-height: 67px;
+    text-decoration: none;
+    transition: .5s;
+
+}
+.header-section .manu ul li a:hover{
+    color: #000;
+}
+
+
+/* start background-section */
+/* start background-section */
+.background-section{
+    background: url("https://images.pexels.com/photos/845434/pexels-photo-845434.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    height: 550px;
+    width: auto;
+    background-size: cover;
+    background-color: #F5F5F5;
+
+}
+.background-section h1 {
+    font-size: 44px;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 258px;
+    
+}
+
+/* start about section */
+/* start about section */
+.about-section{
+    color: #202427d5;
+}
+
+.left-section img{
+    width: 220px;
+    height: 200px;
+    padding-bottom: 20px;
+
+}
+.about{
+    padding-top: 76px;
+}
+.about span{
+    font-size: 25px;
+}
+
+/* start map section */
+/* start map section */
+.form-group label{
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+.footer-section{
+    background-color: #0062D3;
+    color: #fff;
+}
+.footer-section h5 {
+    width: 379px;
+    margin: auto;
+    line-height: 35px;
+}
